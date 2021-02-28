@@ -10,6 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// a, b°ª ¹Þ±â
 		Scanner s = new Scanner(System.in);
 		String str = s.next();
 		int a = Integer.parseInt(str);

@@ -2,11 +2,9 @@
  * 백준 1000번 문제
  * 2021.3.1
  */
-package problem1000;
-
 import java.util.Scanner;
 
-public class Main {
+public class Problem1000 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,5 +1,5 @@
 /*
- * 백준 1000번 문제
+ * 백준 1000번 문제 : A+B
  * 2021.3.1
  */
 import java.util.Scanner;

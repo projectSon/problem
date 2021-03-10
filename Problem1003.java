@@ -17,6 +17,7 @@ public class Problem1003 {
 		int[] zero = new int[41];
 		int[] one = new int[41];
 		
+		// 0과 1일 때 0과 1이 나오는 회수 저장
 		zero[0]=1; zero[1]=0;
 		one[0]=0; one[1]=1;
 		

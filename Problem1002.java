@@ -26,6 +26,8 @@ public class Problem1002 {
 			r2 = s.nextInt();
 
 			System.out.println(distance(x1, y1, r1, x2, y2, r2));
+			
+			// 반복회수 줄이기
 			iteration_number--;
 
 		}

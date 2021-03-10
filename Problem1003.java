@@ -7,6 +7,7 @@ public class Problem1003 {
 
 
 	public static void main(String[] args) throws IOException {
+		// 몇번째 피보나치수열인지 입력
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine());
 		

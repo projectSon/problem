@@ -12,6 +12,7 @@ public class Problem1002 {
 		// 반복회수 받기
 		Scanner s = new Scanner(System.in);
 		int iteration_number = s.nextInt();
+		
 		int x1, y1, r1, x2, y2, r2;
 		
 		// 교점 구하기

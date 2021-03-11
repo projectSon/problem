@@ -1,2 +1,2 @@
 # problem
-Development of Inventory Management System for Small Business
+백준 단계별로 풀어보기(Java)

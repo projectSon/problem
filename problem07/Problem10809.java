@@ -1,10 +1,10 @@
 /*
- * ¹éÁØ 10809¹ø ¹®Á¦ : ¾ËÆÄºª Ã£±â
+ * ë¬¸ì œ 10809ë²ˆ : ì•ŒíŒŒë²³ ì°¾ê¸°
  * 2021.3.20
  */
 import java.util.Scanner;
 
-public class Project10809 {
+public class Problem10809 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,7 +18,7 @@ public class Project10809 {
 		for(i=0; i<alp.length; i++) {
 			alp[i]=input.charAt(i);
 		}
-		int num[] = new int[26]; // ¾ËÆÄºª 26°³
+		int num[] = new int[26]; // ï¿½ï¿½ï¿½Äºï¿½ 26ï¿½ï¿½
 		
 		for(i=0; i<num.length; i++) {
 			num[i]=-1;
